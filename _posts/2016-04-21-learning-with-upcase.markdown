@@ -5,12 +5,12 @@ date:   2016-04-21 19:54:32 -0400
 tags: ruby rails
 categories: ruby
 ---
-Recently I've signed up for [Upcase][upcase] by [thoughtbot][thoughtbot].
-Upcase is a service that claims to build better developers by granting them
-access to video tutorials, exercises, discussions, and a community. The Vim and
-Tmux trails have been my favorite part of Upcase so far.  A trail in Upcase is
-like a mini course with videos, discussion, and many practical applications to
-apply the content.
+Recently I've signed up for [Upcase](https://www.upcase.com/) by
+[thoughtbot](https://thoughtbot.com/). Upcase is a service that claims to build
+better developers by granting them access to video tutorials, exercises,
+discussions, and a community. The Vim and Tmux trails have been my favorite part
+of Upcase so far.  A trail in Upcase is like a mini course with videos,
+discussion, and many practical applications to apply the content.
 
 ![upcase gif]({{ site.url }}/assets/post-images/upcase.gif)
 
@@ -29,7 +29,6 @@ apply the content.
 
   Check out [Upcase][upcase].
 
-  [thoughtbot]: https://thoughtbot.com/
   [chris-toomey]: https://www.twitter.com/christoomey
   [ben-orenstein]: https://www.twitter.com/r00k
   [joe-ferris]: https://www.twitter.com/joeferris
