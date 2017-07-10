@@ -3870,3 +3870,7 @@
 		font-size: 100px;
 		margin-bottom: -70px;
 	}
+
+	.logo img {
+		width: 30%;
+	}
