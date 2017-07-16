@@ -1709,12 +1709,12 @@
 		a.special:not(.button) {
 			text-decoration: none;
 			border-bottom: 0;
-			display: block;
+			/* display: block; */
 			font-family: Raleway, Helvetica, sans-serif;
 			font-size: 0.8em;
 			font-weight: 700;
 			letter-spacing: 0.1em;
-			margin: 0 0 2em 0;
+			margin: 0 1em 2em 0;
 			text-transform: uppercase;
 		}
 
@@ -2723,7 +2723,7 @@
 	}
 
 		.features article {
-			padding: 1.75em 1.75em 0.1em 1.75em ;
+			padding: 1.75em 1.75em 1.1em 1.75em ;
 			background-color: rgba(212, 234, 232, 0.17);
 			border-radius: 25px;
 			margin: 1.5em 3em 1.5em 0;
@@ -2761,7 +2761,7 @@
 		@media screen and (max-width: 736px) {
 
 			.features article {
-				padding: 1.5em 1.5em 0.1em 1.5em ;
+				padding: 1.5em 1.5em 1.1em 1.5em ;
 				margin: 0.875em 1.75em 0.875em 0;
 				width: calc(50% - 0.875em - 1px);
 			}
@@ -3882,4 +3882,8 @@
 
 	#landing-blurb span {
 		font-size: 8px;
+	}
+
+	article a {
+		display: inline;
 	}
