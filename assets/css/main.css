@@ -3873,3 +3873,13 @@
 	.logo img {
 		width: 30%;
 	}
+
+	#landing-blurb a {
+		border: none;
+		font-style: none;
+		font-family: Fontawesome;
+	}
+
+	#landing-blurb span {
+		font-size: 8px;
+	}
