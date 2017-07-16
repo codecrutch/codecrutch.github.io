@@ -3783,7 +3783,6 @@
 	@media screen and (max-width: 1280px) {
 
 		#footer {
-			background-color: #2e3141;
 			background-image: linear-gradient(to top, to top, rgba(46, 49, 65, 0.9), rgba(46, 49, 65, 0.6)), url("../../images/bg.jpg"); 
 			background-size: auto, cover;
 			background-position: center, center;
