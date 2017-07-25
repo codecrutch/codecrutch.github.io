@@ -3881,7 +3881,11 @@
 	}
 
 	#landing-blurb span {
-		font-size: 8px;
+		font-size: 12px;
+	}
+
+	#landing-blurb a {
+		font-size: 35px;
 	}
 
 	article a {
